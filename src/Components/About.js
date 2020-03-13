@@ -20,15 +20,14 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
-
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
+                  <p>
+  						      <span>{phone}</span><br />
+                    <span><a href="mailto:martinhadid@gmail.com">{email}</a></span>
+					         </p>
                </div>
                <div className="columns download">
                   <p>
