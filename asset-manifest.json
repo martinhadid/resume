@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/martinhadid/static/css/main.5facb584.chunk.css",
+    "main.js": "/martinhadid/static/js/main.cdc877c1.chunk.js",
+    "main.js.map": "/martinhadid/static/js/main.cdc877c1.chunk.js.map",
+    "runtime-main.js": "/martinhadid/static/js/runtime-main.1893ca9f.js",
+    "runtime-main.js.map": "/martinhadid/static/js/runtime-main.1893ca9f.js.map",
+    "static/js/2.436f8c2b.chunk.js": "/martinhadid/static/js/2.436f8c2b.chunk.js",
+    "static/js/2.436f8c2b.chunk.js.map": "/martinhadid/static/js/2.436f8c2b.chunk.js.map",
+    "index.html": "/martinhadid/index.html",
+    "precache-manifest.dae92b3fdeb1236fda2462ebec24af67.js": "/martinhadid/precache-manifest.dae92b3fdeb1236fda2462ebec24af67.js",
+    "service-worker.js": "/martinhadid/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/martinhadid/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.436f8c2b.chunk.js.LICENSE.txt": "/martinhadid/static/js/2.436f8c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1893ca9f.js",
+    "static/js/2.436f8c2b.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.cdc877c1.chunk.js"
+  ]
+}
