@@ -67,7 +67,7 @@ class Contact extends Component {
 
              <h4>Mail</h4>
              <p className="address">
-               <span>{email}</span>
+               <span><a href="mailto:martinhadid@gmail.com">{email}</a></span>
              </p>
 				   </div>
             </aside>
