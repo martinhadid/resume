@@ -12,11 +12,6 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"gmail",
-        "url":"martinhadid@gmail.com",
-        "className":"fa fa-envelope"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/martinhadid/",
         "className":"fa fa-linkedin"
@@ -64,7 +59,7 @@
       },
       {
         "company":"Avature",
-        "title":"Quality Assurance Engineer",
+        "title":"QA Engineer",
         "years":"2014 - 2015",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
