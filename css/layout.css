@@ -274,6 +274,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
+   vertical-align: text-top;
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
