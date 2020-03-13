@@ -99,9 +99,9 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"ITC Data Mining Project",
+        "category":"Twitter scraper to learn how fluctuations in #Bitcoin prices affected peoples reactions in bitcoin-related tweets",
+        "image":"itc.jpg",
         "url":"https://www.itc.tech/using-data-mining-for-bitcoin-sentiment-analysis/"
       },
       {
