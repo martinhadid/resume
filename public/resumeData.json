@@ -29,7 +29,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Technical Skills",
+    "skillmessage":"",
     "education":[
       {
         "school":"Israel Tech Challenge",
@@ -74,20 +74,42 @@
         "level":"80%"
       },
       {
-        "name":"GIT",
-        "level":"100%"
-      },
-      {
         "name":"HTML5",
         "level":"90%"
       },
       {
         "name":"CSS3",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"100%"
+      },
+      {
+        "name":"Linux",
         "level":"85%"
       },
       {
         "name":"SQL",
         "level":"70%"
+      }
+    ],
+    "languages":[
+      {
+        "name":"Spanish",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"90%"
+      },
+      {
+        "name":"French",
+        "level":"50%"
+      },
+      {
+        "name":"Hebrew",
+        "level":"20%"
       }
     ]
   },

@@ -54,22 +54,17 @@ class Contact extends Component {
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
            </div>
-
-
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
-
-					   <h4>Phone</h4>
-					   <p className="address">
-						   <span>{phone}</span>
-					   </p>
-
-
-             <h4>Mail</h4>
-             <p className="address">
-               <span><a href="mailto:martinhadid@gmail.com">{email}</a></span>
-             </p>
-				   </div>
+    					   <h4>Phone</h4>
+    					   <p className="address">
+    						   <span>{phone}</span>
+    					   </p>
+                 <h4>Mail</h4>
+                 <p className="address">
+                   <span><a href="mailto:martinhadid@gmail.com">{email}</a></span>
+                 </p>
+				      </div>
             </aside>
       </div>
    </section>
