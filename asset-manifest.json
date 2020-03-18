@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/martinhadid/static/css/main.5facb584.chunk.css",
-    "main.js": "/martinhadid/static/js/main.e8068ddc.chunk.js",
-    "main.js.map": "/martinhadid/static/js/main.e8068ddc.chunk.js.map",
+    "main.js": "/martinhadid/static/js/main.57de693d.chunk.js",
+    "main.js.map": "/martinhadid/static/js/main.57de693d.chunk.js.map",
     "runtime-main.js": "/martinhadid/static/js/runtime-main.1893ca9f.js",
     "runtime-main.js.map": "/martinhadid/static/js/runtime-main.1893ca9f.js.map",
     "static/js/2.436f8c2b.chunk.js": "/martinhadid/static/js/2.436f8c2b.chunk.js",
     "static/js/2.436f8c2b.chunk.js.map": "/martinhadid/static/js/2.436f8c2b.chunk.js.map",
     "index.html": "/martinhadid/index.html",
-    "precache-manifest.6d4198385fa0c4fa5c4a02a9e452580b.js": "/martinhadid/precache-manifest.6d4198385fa0c4fa5c4a02a9e452580b.js",
+    "precache-manifest.44c148a48ff690e6086257274ddda5f9.js": "/martinhadid/precache-manifest.44c148a48ff690e6086257274ddda5f9.js",
     "service-worker.js": "/martinhadid/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/martinhadid/static/css/main.5facb584.chunk.css.map",
     "static/js/2.436f8c2b.chunk.js.LICENSE.txt": "/martinhadid/static/js/2.436f8c2b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1893ca9f.js",
     "static/js/2.436f8c2b.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.e8068ddc.chunk.js"
+    "static/js/main.57de693d.chunk.js"
   ]
 }
