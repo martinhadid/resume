@@ -124,7 +124,7 @@
       {
         "title":"My Resume in React JS",
         "category":"",
-        "image":"header-background.jpg",
+        "image":"./public/header-background.jpg",
         "url":"https://github.com/martinhadid/martinhadid"
       },
       {
