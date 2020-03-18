@@ -4,7 +4,7 @@
     "occupation":"Data Scientist",
     "description":"Data Scientist and Engineering Manager",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am positive, ambitious and I have a passion for learning and self-improvement. I have been leading, coaching and training teams for the past 4 years and I can affirm I am truly passionate about working with people. If you ask me I will always choose Python and JavaScript.",
     "contactmessage":"Send me a message!",
     "email": "martinhadid@gmail.com",
     "phone": "+972-52-310-3882",
@@ -122,10 +122,10 @@
         "url":"https://www.itc.tech/using-data-mining-for-bitcoin-sentiment-analysis/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"My Resume in React JS",
+        "category":"",
+        "image":"header-background.jpg",
+        "url":"https://github.com/martinhadid/martinhadid"
       },
       {
         "title":"Original Thai Food",
