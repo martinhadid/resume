@@ -202,6 +202,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
  font: 22px/30px 'opensans-bold', sans-serif;
+ text-transform: uppercase;
  color: #fff;
  margin-bottom: 12px;
 }
