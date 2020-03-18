@@ -427,7 +427,7 @@ ul#nav li.current a { color: #F06000; }
  padding-bottom: 60px;
 }
 #portfolio h1 {
- font: 15px/24px 'opensans-semibold', sans-serif;
+ font: 24px 'opensans-bold', sans-serif;
  text-transform: uppercase;
  letter-spacing: 1px;
  text-align: center;
@@ -770,7 +770,8 @@ call-to-action .button {
  margin-bottom: 6px;
 }
 #contact p.lead {
- font: 18px/36px 'opensans-light', sans-serif;
+ font: 36px 'opensans-bold', sans-serif;
+ text-transform: uppercase;
  padding-right: 3%;
 }
 #contact .header-col { padding-top: 6px; }
