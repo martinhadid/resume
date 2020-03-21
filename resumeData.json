@@ -55,7 +55,7 @@
         "company":"Fiverr",
         "title":"Data Scientist",
         "years":"2020 - Present",
-        "description":"I developed the new anomaly detection system. Using Prophet and Python, I follow up the most import KPIs to improve its performance and detect possible anomalies."
+        "description":"I developed and mantain the new anomaly detection system. Using Prophet and Python, I follow up the most import KPIs to improve its performance and detect possible anomalies."
       },
       {
         "company":"Avature",
@@ -129,7 +129,7 @@
       },
       {
         "title":"My Resume in React JS",
-        "category":"",
+        "category":"I created my own resume on a website built using ReactJS",
         "image":"header-background.png",
         "url":"https://github.com/martinhadid/martinhadid"
       }
