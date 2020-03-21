@@ -1,6 +1,6 @@
 {
   "homepage": "https://martinhadid.com",
-  "name": "martinhadid",
+  "name": "resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "tar -cvzf martinhadid.tar.gz /home/lenovo/martinhadid/build",
+    "postbuild": "tar -cvzf resume.tar.gz /home/lenovo/resume/build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
