@@ -773,6 +773,7 @@ call-to-action .button {
  font: 36px 'opensans-bold', sans-serif;
  text-transform: uppercase;
  padding-right: 3%;
+ padding-top: 17px;
 }
 #contact .header-col { padding-top: 6px; }
 

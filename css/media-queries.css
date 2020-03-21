@@ -76,7 +76,7 @@
       font-size: 66px;
       line-height: 66px;
    }
-   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+   #contact .section-head p.lead { display: none; }
 
 
 }
@@ -243,7 +243,7 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+   #portfolio-wrapper .columns { margin-bottom: 40px; padding: 0px 102px;}
    .popup-modal {	max-width: 85%; }
 
 
@@ -264,7 +264,7 @@
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }  
-   #contact h1 span { display: block; }
+   #contact h1 span { display: block; font-size: 24px;}
    #contact .header-col { padding-top: 0; }
    #contact .header-col h1:before { content: none;	}
    #contact .section-head p.lead { text-align: center;}
