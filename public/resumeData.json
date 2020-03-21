@@ -47,10 +47,16 @@
         "school":"Escuela Superior de Comercio Carlos Pellegrini",
         "degree":"Perito Mercantil",
         "graduated":"2004 - 2008",
-        "description":"Highschool degree with an specialization in accounting on one of the most prestigious schools in Argentina."
+        "description":"Highschool degree with a specialization in accounting on one of the most prestigious schools in Argentina."
       }
     ],
     "work":[
+      {
+        "company":"Fiverr",
+        "title":"Data Scientist",
+        "years":"2020 - Present",
+        "description":"I developed the new anomaly detection system. Using Prophet and Python, I follow up the most import KPIs to improve its performance and detect possible anomalies."
+      },
       {
         "company":"Avature",
         "title":"UI Team Leader",
