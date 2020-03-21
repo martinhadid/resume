@@ -746,7 +746,7 @@ call-to-action .button {
 #contact a:hover, #contact a:focus, #contact a:visited   { color: #11ABB0; }
 
 #contact h1 {
- font: 24px 'opensans-bold', sans-serif;
+ font: 18px/24px 'opensans-bold', sans-serif;
  text-transform: uppercase;
  letter-spacing: 3px;
  color: #fff;
@@ -773,6 +773,7 @@ call-to-action .button {
  font: 36px 'opensans-bold', sans-serif;
  text-transform: uppercase;
  padding-right: 3%;
+ padding-top: 17px;
 }
 #contact .header-col { padding-top: 6px; }
 
