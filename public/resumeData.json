@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Martin Hadid",
-    "occupation":"Data Scientist",
-    "description":"Data Scientist and Engineering Manager",
+    "occupation":"",
+    "description":"Data Scientist and Team Leader",
     "image":"profilepic.png",
     "bio":"I am passionate about solving impactful business problems in areas of automation, data science, front-end development and user experience. I have been leading, coaching and training teams for the past four years to deliver experiences that delight customers and help drive business performance.",
     "contactmessage":"Get in touch",
     "email": "martinhadid@gmail.com",
-    "phone": "+972-52-310-3882",
+    "phone": "(972) 52-310-3882",
     "website": "",
     "resumedownload":"./MartinHadid.pdf",
     "social":[
@@ -35,7 +35,7 @@
         "school":"Israel Tech Challenge",
         "degree":"Data Science Fellow",
         "graduated":"2019 - 2020",
-        "description":"The ITC Data Science Fellows is a 5-month elite program for excellent STEM graduates inspired by the IDF's 8200 unit's methods focused on data analysis, data mining, machine learning and deep learning focused on Natural Language Processing (NLP)."
+        "description":"Five-months full-time training course focused on exploratory data analysis, data preparation, machine learning, deep learning, natural language processing (NLP) and computer vision (CV)."
       },
       {
         "school":"University of Buenos Aires",
@@ -47,13 +47,13 @@
     "work":[
       {
         "company":"Fiverr",
-        "title":"Data Scientist",
-        "years":"2020 - Present",
+        "title":"Data Science Intern",
+        "years":"2020",
         "description":"•Built and maintained a new anomaly detection system using Python, SQL and Prophet.\n•Simulated new features and opportunities estimated impact.\n•Conducted deep dive KPIs analyses to identify actionable recommendations and conclusions."
       },
       {
         "company":"Avature",
-        "title":"UI Team Leader",
+        "title":"Frontend Team Leader",
         "years":"2015 - 2019",
         "description":"•Led a multidisciplinary team of nine JavaScript developers and analysts.\n•Contributed features, platform enhancements and bug fixes to the user interface.\n•Planned product roadmaps and conducted technical analyses of client requirements.\n•Led estimation, planning and architecture design sessions using agile methodologies.\n•Interacted with C-Level executives to maximize business growth and impact."
       },
@@ -104,8 +104,16 @@
         "level":"90%"
       },
       {
+        "name":"Protuguese",
+        "level":"70%"
+      },
+      {
         "name":"French",
         "level":"50%"
+      },
+      {
+        "name":"Hebrew",
+        "level":"20%"
       }
     ]
   },
